@@ -1,7 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Rania! <br/><a href="https://github.com/milleroncruz">Bioinformatics Specialict</a>, <a href="https://www.linkedin.com/in/raniamilleron/">PhD in Molecular Genetics working with microbial genomes and data analytics for better public health outcomes<a>
+
+<h2>👨‍💻 Bioinformatics Skillset for Genomic Epidemiology:</h2>
+
+- <b>Project Analysis (Pathogen Genomics)</b>
+  - [Analyzing a Real-World Genomic Epidemiology Dataset](https://github.com/milleroncruz/)
+- <b>Shiny App Development (API, RStudio)</b>
+  - [Developing a Shiny App tool for Exploring Genomic Data](https://github.com/milleroncruz/Portfolio)
+- <b>Tutorial</b>
+  - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz)    
+- <b>Code Review(Bash)</b>
+  - [Developing Robust Code](https://github.com/milleroncruz)  - 
+  
+<h2>📺 YouTube Videos</h2>
+
+- [Microbial Genomics in Public Health](https://www.youtube.com/)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/@raniamilleroncruz359
+[linkedin]: https://linkedin.com/in/raniamilleron
 
 <!--
-**milleroncruz/milleroncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
