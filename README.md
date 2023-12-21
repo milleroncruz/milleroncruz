@@ -9,7 +9,7 @@
 - <b>Tutorial</b>
   - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz)    
 - <b>Code Review(Bash)</b>
-  - [Developing Robust Code](https://github.com/milleroncruz)  - 
+  - [Developing Robust Code](https://github.com/milleroncruz/CodeReview) 
   
 <h2>📺 YouTube Videos</h2>
 
