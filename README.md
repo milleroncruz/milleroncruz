@@ -11,7 +11,7 @@
 - <b>Code Review(Bash)</b>
   - [Developing Robust Code](https://github.com/milleroncruz/CodeReview) 
   
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube Videos:</h2>
 
 - [Microbial Genomics in Public Health](https://www.youtube.com/)
 
