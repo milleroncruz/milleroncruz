@@ -11,7 +11,7 @@
 - <b>Code Review(Bash)</b>
   - [Developing Robust Code](https://github.com/milleroncruz/CodeReview) 
   
-<h2>📺 YouTube Videos:</h2>
+<h2>📺 Videos:</h2>
 
 - [General Overview of Pathogen Genomic Epidemiology](https://vimeo.com/817787438)
 
