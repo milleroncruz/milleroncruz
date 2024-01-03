@@ -13,7 +13,7 @@
   
 <h2>📺 YouTube Videos:</h2>
 
-- [Microbial Genomics in Public Health](https://www.youtube.com/)
+- [General Overview of Pathogen Genomic Epidemiology](https://vimeo.com/817787438)
 
 <h2> 🤳 Connect with me:</h2>
 
