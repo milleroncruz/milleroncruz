@@ -7,7 +7,7 @@
 - <b>Shiny App Development (API, RStudio)</b>
   - [Developing a Shiny App tool for Exploring Genomic Data](https://github.com/milleroncruz/Portfolio)
 - <b>Tutorial</b>
-  - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz/Portfolio)    
+  - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz/Tutorial)    
 - <b>Code Review(Bash)</b>
   - [Developing Robust Code](https://github.com/milleroncruz/CodeReview) 
   
