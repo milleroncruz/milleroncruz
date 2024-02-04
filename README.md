@@ -5,11 +5,10 @@
 - <b>Project Analysis (Pathogen Genomics)</b>
   - [Analyzing a Real-World Genomic Epidemiology Dataset](https://github.com/milleroncruz/ProjectAnalysis)
 - <b>Shiny App Development (API, RStudio)</b>
-  - [Developing a Shiny App tool for Exploring Genomic Data](https://github.com/milleroncruz/Portfolio)
-- <b>Tutorial</b>
-  - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz/Tutorial)    
-- <b>Code Review(Bash)</b>
-  - [Developing Robust Code](https://github.com/milleroncruz/CodeReview) 
+  - [Developing a Shiny App tool for Exploring Genomic Data](https://github.com/milleroncruz/Portfolio)Other
+- <b>Other Projects: Code Review(Bash), tutorial</b>
+  - [Developing Robust Code](https://github.com/milleroncruz/CodeReview)
+  - [Applied Genomic Epidemiology Concepts](https://github.com/milleroncruz/Tutorial)
   
 <h2>📺 Videos:</h2>
 
