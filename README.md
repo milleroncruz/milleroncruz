@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rania! <br/><a href="https://github.com/milleroncruz">Bioinformatics Specialist</a>, <a href="https://www.linkedin.com/in/raniamilleron/"> Epidemiologist, PhD in Population Genetics<a>
+<h1>Hi, I'm Rania! <br/><a href="https://github.com/milleroncruz">Bioinformatics Specialist</a>, <a href="https://www.linkedin.com/in/raniamilleron/"> Molecular Biologist, Epidemiologist, PhD in Population Genetics<a>
 
 <h2>👨‍💻 Bioinformatics Skillset for Genomic Epidemiology:</h2>
 
